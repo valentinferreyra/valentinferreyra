@@ -6,7 +6,7 @@ I currently work as a Backend Developer using Golang; but I aspire to become a s
 ### Contact me 
 <p align="left"> <a href="https://www.github.com/valentinferreyra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
     <a href="http://www.instagram.com/valensferreyra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/></a> 
-<a href="https://www.linkedin.com/valentinferreyra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/valentinferreyra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
 ### Learning
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinferreyra&theme=tokyonight)
