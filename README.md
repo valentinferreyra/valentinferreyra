@@ -4,6 +4,7 @@ This is my personal Github profile. In this page I upload projects carried out i
 I currently work as a Backend Developer using Golang; but I aspire to become a solid Fullstack Developer, and for that I use this Github account as a learning source.
 
 ### Contact me 
+valentinferreyradev@gmail.com
 <p align="left"> <a href="https://www.github.com/valentinferreyra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
     <a href="http://www.instagram.com/valensferreyra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/></a> 
 <a href="https://www.linkedin.com/in/valentinferreyra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
