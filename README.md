@@ -1,5 +1,5 @@
 <h1 align="center">Valentin Ferreyra</h1>
-Hi! This is my personal Github profile. In this page I upload projects carried out in the university, and I also upload small projects and exercises carried out in programming courses of my own interest.
+This is my personal Github profile. In this page I upload projects carried out in the university, and I also upload small projects and exercises carried out in programming courses of my own interest.
 
 I currently work as a Backend Developer using Golang; but I aspire to become a solid Fullstack Developer, and for that I use this Github account as a learning source.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinferreyra&label=Profile%20views&color=0e75b6&style=flat" alt="valentinferreyra" /> </p>
