@@ -7,7 +7,6 @@ I currently work as a Backend Developer using Golang; but I aspire to become a s
 ### Contact me 
 <a href="mailto:valentinferreyradev@gmail.com"><img src="https://img.shields.io/badge/-valentinferreyradev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <p align="left"> <a href="https://www.github.com/valentinferreyra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-    <a href="http://www.instagram.com/valensferreyra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/></a> 
 <a href="https://www.linkedin.com/in/valentinferreyra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
 ### Learning
