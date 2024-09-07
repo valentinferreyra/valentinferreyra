@@ -2,7 +2,6 @@
 This is my personal Github profile. In this page I upload projects carried out in the university, and I also upload small projects and exercises carried out in programming courses of my own interest.
 
 I currently work as Backend Developer using Golang; but I aspire to become a solid Fullstack Developer, and for that I use this Github account as a learning source.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinferreyra&label=Profile%20views&color=0e75b6&style=flat" alt="valentinferreyra" /> </p>
 
 ### Contact me 
 <a href="mailto:valentinferreyradev@gmail.com"><img src="https://img.shields.io/badge/-valentinferreyradev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
